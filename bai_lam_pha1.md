@@ -3,7 +3,7 @@
 - **Mã đề:** 04
 - **Họ tên:** Đỗ Nguyễn Trung Kiên
 - **Lớp:** KS26-CNTT1
-- **Link repository Pha1:**
+- **Link repository Pha1:** https://github.com/TkIen-hue/KS26-CNTT1_PromptAI_H02_Pha1/edit/main/bai_lam_pha1.md
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
